@@ -1,0 +1,28 @@
+#corpo{ font-family: 'Ubuntu', sans-serif;}
+
+#barra{ width: 100%; height: 20%px; padding: 10px; }
+#barraNavegacao{ font-size: 22px; text-align: center;}
+#barraNavegacao a{ color:  #3d24b9; font-weight: bold; margin-left: 30px;}
+#barraPesquisa input{float: left; margin: 0; width: 160px; height: 40px;}
+#barraPesquisa button{ float: left; height: 40px;}
+
+#lancamentos{ background-color: #96d1c8;}
+#lancamentos iframe{padding-left: 10px; padding-top: 5%; }
+#slides{ padding-bottom: 50px; padding-top: 10px;}
+
+#destaque{ background-color: #1e9e8b; padding-top: 20px; padding-left: 50px; padding-right: 50px;}
+#destaque img{ width: 105%; margin: 0;}
+
+#avaliacoes{background-color: #23b9a2; padding-top: 20px; padding-left: 50px; padding-right: 50px;padding-bottom: 30px;}
+#avaliacoes h1{font-size: 25px;}
+#avaliacoes i{font-size: 40px;}
+#avaliacoes p{margin: 25px; margin-left: 30px; text-align: justify;}
+
+#entrevistas iframe{ max-width: 100%; max-height: 50%; margin-bottom: 30px;}
+#entrevistas{ background-color: #1e9e8b; padding-top: 20px; padding-left: 50px; padding-right: 50px;}
+
+#novidades h1{ font-size: 20px;}
+#novidades img{ max-width: 200px;float: left; margin: 0; padding-top: 3px;}
+#novidades{ background-color: #23b9a2;}
+
+#sobre_editorial{ background-color: #b4b4b4;}
